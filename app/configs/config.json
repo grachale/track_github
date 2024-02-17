@@ -1,0 +1,13 @@
+{
+  "repositories": [
+    {"owner": "grachale", "repo": "predict_life_expect"},
+    {"owner": "grachale", "repo": "predict_titanik"},
+    {"owner": "grachale", "repo": "navigational-server"}
+  ],
+    "db_config": {
+    "host": "localhost",
+    "user": "aleksejgracev",
+    "database": "github_tracks"
+  },
+  "delta": "hour"
+}
